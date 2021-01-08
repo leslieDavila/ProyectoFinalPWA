@@ -23,7 +23,7 @@ Para lograr el funcionamiento del sistema se debe contar con TomCat y un program
 ya sea WAMPP, XAMPP o MAPP.
 
 # Video explicativo.
-link: 
+link: https://flipgrid.com/514ddba2
 
 # Notas
 
